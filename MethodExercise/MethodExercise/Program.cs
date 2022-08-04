@@ -23,9 +23,9 @@ namespace SoloLearn
 
 
             Console.WriteLine($"There was a person named {userName}. Their favorite animal is {userFavAnimal}.");
-            Console.WriteLine($"Their favorite color is {userFavColor}.");
-            Console.WriteLine($"And their favorite band is {userFavBand}.");
-            Console.WriteLine($"{userName}'s favorite animal was {userFavAnimal}, and their favorite band was {userFavBand} and favorite color was {userFavColor}.")}
+            Console.WriteLine($"Their favorite color is {userFavColor}. And their favorite band is {userFavBand}.");
+            Console.WriteLine($"{userName} loved {userFavAnimal}s, the color {userFavColor}, and the band {userFavBand}");
+
 
             Console.WriteLine("Give me a number");
             int num1 = int.Parse(Console.ReadLine());
@@ -33,7 +33,7 @@ namespace SoloLearn
             Console.WriteLine("Give me a number to add to the first one");
             int num2 = int.Parse(Console.ReadLine());
 
-            int sum = sum(num1, num2);
+            int sum = Sum(num1, num2);
 
             Console.WriteLine($"The sum is {sum}");
 
@@ -43,26 +43,19 @@ namespace SoloLearn
             Console.WriteLine("Give me a number to Multiply the first one by");
             num2 = int.Parse(Console.ReadLine());
 
-            int product = Multiply(num3, num4);
+            int product = Multiply(num1, num2);
             Console.WriteLine($"The product is {product}");
           }
 
-    public static int Sum(params int[] list)
-    {
-        int sum = 0;
-
-        for (int i = 0; i < list.Length; i++)
+        public static int Sum(int num1, int num2)
         {
-            sum = sum + list[i];
+            return num1 + num2;
         }
 
-        return sum;
+        public static int Multiply(int num1, int num2)
+        {
+            return num1 * num2;
+        }
     }
-
-    public static int Multiply(num3, num4)
-    {
-        return num3 * num4;
-    }
-}
 }
 	

@@ -1,0 +1,15 @@
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/net6.0/BankEncapsulationExercise.csproj.AssemblyReference.cache
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/net6.0/BankEncapsulationExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/net6.0/BankEncapsulationExercise.AssemblyInfoInputs.cache
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/net6.0/BankEncapsulationExercise.AssemblyInfo.cs
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/net6.0/BankEncapsulationExercise.csproj.CoreCompileInputs.cache
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/bin/Debug/net6.0/BankEncapsulationExercise
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/bin/Debug/net6.0/BankEncapsulationExercise.deps.json
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/bin/Debug/net6.0/BankEncapsulationExercise.runtimeconfig.json
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/bin/Debug/net6.0/BankEncapsulationExercise.dll
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/bin/Debug/net6.0/BankEncapsulationExercise.pdb
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/net6.0/BankEncapsulationExercise.dll
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/net6.0/refint/BankEncapsulationExercise.dll
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/net6.0/BankEncapsulationExercise.pdb
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/net6.0/BankEncapsulationExercise.genruntimeconfig.cache
+/Users/kristinacagle/Projects/BankEncapsulationExercise/BankEncapsulationExercise/obj/Debug/net6.0/ref/BankEncapsulationExercise.dll
